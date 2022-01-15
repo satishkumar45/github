@@ -1,0 +1,14 @@
+adb commands
+
+sudo adb devices
+
+adb reboot bootloader
+
+fastboot devices
+
+flash the device using the commands
+push -d /dest/ /source/
+
+// come out of the fastboot mode to user mode
+
+fastboot reboot
